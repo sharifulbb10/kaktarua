@@ -22,7 +22,7 @@ function ThirdSection() {
 	return (
 		<div className="mt-8 flex justify-center">
 			<div>
-				<img className="another-image w-[10%]" src="src/assets/another-image.png" alt=""/>
+				<img className="another-image w-[10%]" src="/assets/another-image.png" alt=""/>
 			</div>
 		</div>
 	)
