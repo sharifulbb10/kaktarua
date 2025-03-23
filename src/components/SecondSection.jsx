@@ -11,20 +11,20 @@ function SecondSection() {
 		<div className="mt-8 flex flex-col items-center relative overflow-hidden">
 			<h1 className="text-lg py-3 font-bold">Our Founding Members</h1>
 			<div className="founding-members flex items-center">
-				<img className="each-image first-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/mehedi-kaktarua.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/rana.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/minuddin.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/mehedi-math.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/shanthu.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/boro-miah.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/solaiman.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/kamrul.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/sayem.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/shahadat.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/shanto-dev.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/sobuj.jpeg" alt=""/>
-				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/jamirul.jpeg" alt=""/>
-				<img className="each-image last-image w-100 h-100 p-1 border-3 border-zinc-300" src="src/assets/founding-members/shariful.jpeg" alt=""/>
+				<img className="each-image first-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/mehedi-kaktarua.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/rana.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/minuddin.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/mehedi-math.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/shanthu.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/boro-miah.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/solaiman.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/kamrul.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/sayem.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/shahadat.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/shanto-dev.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/sobuj.jpeg" alt=""/>
+				<img className="each-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/jamirul.jpeg" alt=""/>
+				<img className="each-image last-image w-100 h-100 p-1 border-3 border-zinc-300" src="kaktarua/src/assets/founding-members/shariful.jpeg" alt=""/>
 			</div>
 
 			<div>
